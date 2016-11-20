@@ -1,5 +1,3 @@
-<img src="http://i.imgur.com/iH2jdhV.png" align="right" />
-
 Instagram Scraper
 =================
 Instagram-Scraper is a command-line application written in Python that scrapes and downloads an instagram user's photos and videos. Use responsibly.
